@@ -6,7 +6,7 @@ take that as a writing prompt. :)
 ## Questions
 
 Collect your questions in `questions.md` as a first step. Some questions will answer themselves as the course goes on.
-Try to answer the rest on an ongoing basis by yourself through research as well as collaboration with your peers.
+Try to answer the rest on an ongoing basis by yourself through research as well as collaboration with your peers. [Use the course Forums](https://platform.codingnomads.co/learn/mod/hsuforum/view.php?id=1477)!
 
 ## Learned Concepts
 
