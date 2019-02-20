@@ -17,4 +17,4 @@ At the end of each week we will take some time to record the learned concepts of
 These `.md` files are **Markdown** files. Markdown is a common format for quick, nice-looking documentation.
 Learn more about how to use it [here](https://www.markdowntutorial.com/).
 
-Keep up the good work! :)
+Keep up the great work! :)
