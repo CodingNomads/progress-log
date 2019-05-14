@@ -9,7 +9,7 @@ Try to answer the rest on an ongoing basis by yourself through research as well 
 
 ## Learned Concepts
 
-At the end of each week we will take some time to record the learned concepts of that week that stood out to you in `learned_concepts.md`.
+At the end of each week we suggest to take some time to record the learned concepts of that week that stood out to you in `learned_concepts.md`.
 
 ---
 
