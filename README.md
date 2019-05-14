@@ -1,12 +1,11 @@
 # Progress Log
 
-This repo will become an excellent source for topics for your blog posts. If something tickles your interest or boggles your mind,
-take that as a writing prompt. :)
+Clone this repo, if you want a blueprint for your notes. If you use it regularly, it will become an excellent source for topics for blog posts. If something tickles your interest or boggles your mind, take that as a writing prompt. :)
 
 ## Questions
 
 Collect your questions in `questions.md` as a first step. Some questions will answer themselves as the course goes on.
-Try to answer the rest on an ongoing basis by yourself through research as well as collaboration with your peers. [Use the course Forums](https://platform.codingnomads.co/learn/mod/hsuforum/view.php?id=1477)!
+Try to answer the rest on an ongoing basis by yourself through research as well as collaboration with your peers. [Use our CodingNomads Forum](http://forum.codingnomads.co)!
 
 ## Learned Concepts
 
